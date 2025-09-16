@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alejandro Lopez</h1>
-<h3 align="center">🚀 Full Stack Software Developer | 📍 Based in Miami, FL</h3>
+<h2 align="center">🚀 Full Stack Software Developer | 📍 Based in Miami, FL</h2>
 
 <p align="center">
   <a href="https://linkedin.com/in/alejandro-lopez-developer" target="_blank">
@@ -15,36 +15,38 @@
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-I'm a Full Stack Developer with a strong foundation in **JavaScript, Python, React, Flask, and SQL**.  
+<p style="font-size: 17px;">
+I'm a Full Stack Developer with a strong foundation in <strong>JavaScript, Python, React, Flask, and SQL</strong>.  
 I transitioned from a 4+ year career in aviation, where I thrived under pressure and collaborated with international teams — skills I now apply to fast-paced, agile development environments.  
-I'm passionate about building **user-focused applications**, learning new technologies, and collaborating on **meaningful projects**.
+I'm passionate about building <strong>user-focused applications</strong>, learning new technologies, and collaborating on <strong>meaningful projects</strong>.
+</p>
 
 ---
 
-### 💼 I’m Looking To:
+## 💼 I’m Looking To
 
-- 👯 Collaborate on open source and mission-driven web apps (community, logistics, automation)
-- 🌱 Learn & grow in projects involving React, Flask, SQL, or testing
+- 👯 Collaborate on open source and mission-driven web apps (community, logistics, automation)  
+- 🌱 Learn & grow in projects involving React, Flask, SQL, or testing  
 
 ---
 
-### 🚀 Featured Project
+## 🚀 Featured Project
 
-#### 🏢 [Condo Connect](https://github.com/Alejo32267/condo-connect)
+### 🏢 [Condo Connect](https://github.com/Alejo32267/condo-connect)
 
 Full-stack web app to manage incident reports, reservations, and tenant onboarding in condominiums.
 
 - 🔐 Secure auth system with email notifications  
 - 🧭 Role-based UI for tenants and admins  
-- 🔄 Built with **React.js, Flask, SQLAlchemy, Python, Bootstrap**  
+- 🔄 Built with <strong>React.js, Flask, SQLAlchemy, Bootstrap</strong>  
 - ✅ Tested with Postman & manual QA  
 - 👥 Developed in team using SCRUM methodology
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank">
@@ -99,7 +101,7 @@ Full-stack web app to manage incident reports, reservations, and tenant onboardi
 
 ---
 
-### 📈 GitHub Stats
+## 📈 GitHub Stats
 
 <table>
   <tr>
@@ -114,6 +116,8 @@ Full-stack web app to manage incident reports, reservations, and tenant onboardi
 
 ---
 
-### ⚡ Fun Fact
+## ⚡ Fun Fact
 
+<p style="font-size: 17px;">
 Before I wrote code, I helped thousands of people reach their destinations safely ✈️ — now I build digital tools that help users get where they need to go online.
+</p>
