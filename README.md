@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alejandro Lopez</h1>
-<h3 align="center">🚀 **Full Stack Software Developer** 📍 Based in Miami, FL | 🌎 Open to Remote Opportunities in the US 💡 From Flight Attendant to Developer – Bringing communication, adaptability, and problem-solving to the tech world.</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alejo32267" alt="alejo32267" /></a> </p>
+<h3 align="center">🚀 **Full Stack Software Developer** |📍 Based in Miami, FL.</h3>
 
 - 🔭 I’m currently working on [Condo Connect](https://github.com/Alejo32267/condo-connect)
 
