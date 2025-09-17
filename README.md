@@ -40,7 +40,7 @@ Full-stack web app to manage incident reports, reservations, and tenant onboardi
 
 - 🔐 Secure auth system with email notifications  
 - 🧭 Role-based UI for tenants and admins  
-- 🔄 Built with <strong>React.js, Flask, SQLAlchemy, Bootstrap</strong>  
+- 🔄 Built with <strong>Python, JavaScrip, React.js, Flask, SQLAlchemy, Bootstrap</strong>  
 - ✅ Tested with Postman & manual QA  
 - 👥 Developed in team using SCRUM methodology
 
