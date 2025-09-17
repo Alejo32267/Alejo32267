@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alejandro Lopez</h1>
-<h2 align="center">🚀 Full Stack Software Developer | 📍 Based in Miami, FL</h2>
+<h2 align="center">🚀 Full Stack Software Developer | 📍Miami, FL</h2>
 
 <p align="center">
   <a href="https://linkedin.com/in/alejandro-lopez-developer" target="_blank">
